@@ -6,7 +6,7 @@ h2. The Project Has Moved!
 
 Please visit the project at its "new home":https://github.com/RailsApps/rails3-application-templates:
 
-h4. "Rails Apps Composer Gem":https://github.com/RailsApps/rails3-application-templates
+h4. "Rails 3 Application Templates":https://github.com/RailsApps/rails3-application-templates
 
 h2. !http://twitter-badges.s3.amazonaws.com/t_logo-a.png(Follow on Twitter)!:http://www.twitter.com/rails_apps Follow on Twitter !http://railsapps.github.com/images/mailing-list-icon.jpg(Join the Mailing List)!:http://eepurl.com/dQx3o Join the Mailing List
 
@@ -16,7 +16,7 @@ Follow the project on Twitter: "http://twitter.com/rails_apps":http://twitter.co
 
 h2. Issues
 
-Any issues? Please create an "Issue":http://github.com/RailsApps/rails3-application-templates/issues on GitHub.
+Any issues? Please create an "issue":http://github.com/RailsApps/rails3-application-templates/issues on GitHub.
 
 h2. Credits
 
